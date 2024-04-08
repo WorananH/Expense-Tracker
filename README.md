@@ -2,7 +2,7 @@
 
 To get started with the Expense Tracker project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/expense-tracker.git`
+1. Clone the repository: `git clone https://github.com/WorananH/expense-tracker.git`
 2. Navigate to the project directory: `cd expense-tracker`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
